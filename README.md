@@ -12,7 +12,7 @@ The training program loads the copy bundled with scikit-learn. It uses the 30 nu
 
 ## C. GitHub repository link
 
-**Repository URL** — [Insert your GitHub repository URL here]
+**Repository URL** — https://github.com/ajeeshakd/ml-assignment-2
 
 The repository contains `train_models.py`, `streamlit_app.py`, `requirements.txt`, `README.md`, `test_data.csv`, and `model/` with the five saved pipelines and their metadata.
 
